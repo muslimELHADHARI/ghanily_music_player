@@ -1,5 +1,5 @@
 
-![Capture](https://github.com/user-attachments/assets/6fa5ebd8-50bb-46d4-b089-c31cfc0bef71)
+![Capture](https://github.com/user-attachments/assets/9d36b93f-5fcf-45b2-9f57-3b047eeff057)
 
 **# Ghanily: Your Personal Music Oasis**
 
