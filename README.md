@@ -24,7 +24,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/ghanily.git
+   git clone https://github.com/muslimELHADHARI/ghanily_music_player.git
    ```
 
 2. Navigate to the project directory:
