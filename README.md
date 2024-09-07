@@ -1,7 +1,7 @@
 
 ![Capture](https://github.com/user-attachments/assets/9d36b93f-5fcf-45b2-9f57-3b047eeff057)
 
-**# Ghanily: Your Personal Music Oasis**
+** Ghanily: Your Personal Music Oasis**
 
 **Ghanily** is a lightweight and user-friendly Java Swing music player designed to enhance your listening experience. It allows you to manage your music library, create playlists, and discover new favorites with ease.
 
